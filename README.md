@@ -45,4 +45,4 @@ or both need to be outside Plugins. (You can have for example an OtherPlugins fo
 1.0 Jan 10th 2021: Initial release
 
 # Download:
-Latest Release: https://github.com/maqueom/CopyDynamicBones/releases/download/v1.0/CopyDynamicBones1.0.unitypackage
+Latest Release: [CopyDynamicBones v1.0 UnityPackage](https://github.com/maqueom/CopyDynamicBones/releases/download/v1.0/CopyDynamicBones1.0.unitypackage) 
