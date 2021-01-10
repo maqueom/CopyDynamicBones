@@ -27,7 +27,6 @@ Unity version: 2018.4 and above (haven't tested it on earlier versions)
          
 Important: The code will by default replace any DynamicBone and collider components already in the new model, so watch out. If you want to ignore preexisting dynamic bones, set the "Replace All DynamicBones" flag to false.
              For colliders you can set "Replace All Colliders" to false.
-             
              Reference objects are assumed to be independent from the hierarchy and by default will not be changed. If you want to look for for a similar object inside the hierarchy then set the "Replace Reference Objects" flag to true
              
 # About DynamicBone: 
@@ -44,3 +43,6 @@ or both need to be outside Plugins. (You can have for example an OtherPlugins fo
 # Version history: 
 
 1.0 Jan 10th 2021: Initial release
+
+# Download:
+Latest Release: https://github.com/maqueom/CopyDynamicBones/releases/download/v1.0/CopyDynamicBones1.0.unitypackage
